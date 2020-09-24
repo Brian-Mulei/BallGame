@@ -1,3 +1,3 @@
-# ballgame
 # BallGame
-# BallGame
+
+Control a ball through obstacles
